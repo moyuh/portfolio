@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-image: url("file:///Users/monicayuh/Desktop/Untitled_Artwork.jpg");
+    background-size: cover;
+}
+.navbar-brand{
+    color:white;
+    font-size: 25px;
+}
+.carousel-item{
+    margin-left: 35%;
+    height:500px;
+    width:500px;
+}
+.form{
+    margin-right:125px;
+}
+#email{
+    margin-left: 40px;
+}
+#message{
+    margin-left: 13px;
+    width: 182px;
+}
+button{
+    margin-left: 75px;
+}
+.email{
+    color:white;
+}
+
+.email::after, .email:visited{
+    color:white;
+}
+ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
