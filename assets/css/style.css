@@ -29,7 +29,8 @@ button{
     color:white;
 }
 
-.email::after, .email:visited{
+.email::after, .email:visited
+a::after, a:visited{
     color:white;
 }
 ul{
